@@ -4,4 +4,4 @@ else
     BUILD_TAG="git-${TRAVIS_COMMIT:0:8}"
 fi
 
-REPO="quay.io/kelproject/bundle-builder"
+REPO="quay.io/kelproject/bundle-runner"
