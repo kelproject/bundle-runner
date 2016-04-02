@@ -42,6 +42,11 @@ case "$1" in
         ;;
 esac
 
-## Run!
+## Run! (if we can)
 
-exec bash -c "$command"
+if [[ "$command" ]]; then
+    exec bash -c "$command"
+else
+    echo "$2 not found in Procfile"
+    exit 1
+fi
