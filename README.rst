@@ -4,8 +4,8 @@ Kel Bundle Runner
 .. image:: http://slack.kelproject.com/badge.svg
    :target: http://slack.kelproject.com/
 
-.. image:: https://img.shields.io/travis/kelproject/api.svg
-   :target: https://travis-ci.org/kelproject/api
+.. image:: https://img.shields.io/travis/kelproject/kel-bundle-runner.svg
+   :target: https://travis-ci.org/kelproject/kel-bundle-runner
 
 .. image:: https://img.shields.io/badge/license-apache-blue.svg
 
